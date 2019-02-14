@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{65D58583-D4E3-82D9-CD79-09547BD7C41A}") = "Inertia Root", "Assembly-CSharp.csproj", "{CA6D1818-EE09-236E-1268-A5BCB0732F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6D1818-EE09-236E-1268-A5BCB0732F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6D1818-EE09-236E-1268-A5BCB0732F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6D1818-EE09-236E-1268-A5BCB0732F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6D1818-EE09-236E-1268-A5BCB0732F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
